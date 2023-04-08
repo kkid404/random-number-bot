@@ -1,0 +1,1 @@
+from utils.random_number import generate_number
